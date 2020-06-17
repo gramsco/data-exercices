@@ -1,0 +1,16 @@
+{
+  "name": "exercices",
+  "version": "1.0.0",
+  "description": "To launch an exercice, just open a terminal and :",
+  "main": "exercice1.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
