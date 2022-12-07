@@ -4,7 +4,7 @@
   "description": "To launch an exercice, just open a terminal and :",
   "main": "exercice1.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {},
   "scripts": {
